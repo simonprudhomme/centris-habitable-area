@@ -17,7 +17,7 @@ Follow these steps to set up the project environment:
 
 1. **Clone the Repository:**
    ```bash
-   git clone [repository-link]
+   git clone https://github.com/simonprudhomme/centris-habitable-area.git
 2. **Create virtual environments and install dependancies:**
    ```bash
    python -m venv venv
