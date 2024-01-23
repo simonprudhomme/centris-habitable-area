@@ -1,6 +1,7 @@
 python-dotenv
 openai
 pandas
+requests
 pyarrow
 openpyxl
 ipykernel
