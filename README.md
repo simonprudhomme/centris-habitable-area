@@ -1,6 +1,6 @@
 # Project Description
 
-This project provides tools to efficiently parse Centris real estate listings for the purpose of calculating the average price per square foot of a property. Leveraging OCR (Optical Character Recognition) technology, the tool automates the extraction and analysis of room dimensions from property listings. This enables users to gain quick insights into property value based on area.
+This project provides tools to efficiently parse Centris real estate listings for the purpose of calculating the price per square foot of a property. Leveraging OCR (Optical Character Recognition) technology, the tool automates the extraction and analysis of room dimensions from property listings. This enables users to gain quick insights into property value based on area.
 
 ## Features
 - **Automated Room Dimension Parsing:** Process screenshots of property listings, extracting room dimensions using advanced OCR techniques.
